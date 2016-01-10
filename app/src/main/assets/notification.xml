@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+    <category>
+        <id>1</id>
+        <name>Jabong</name>
+        <photo>drawable/jabong_ad_image</photo>
+        <description>Rs 100 off on Jabong!</description>
+    </category>
+    <category>
+        <id>2</id>
+        <name>Amazon</name>
+        <photo>drawable/amazon_ad_image</photo>
+        <description>Amazon mega sale!</description>
+    </category>
+    <category>
+        <id>3</id>
+        <name>Jivami</name>
+        <photo>drawable/jivami_ad_image</photo>
+        <description>Jivami earn and fun.</description>
+    </category>
+
+
+</categories>
